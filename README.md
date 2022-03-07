@@ -39,4 +39,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ---
 
-[ MIT ] (https://choosealicense.com/licenses/mit/)
+(https://choosealicense.com/licenses/mit/) [MIT] 
